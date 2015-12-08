@@ -1,3 +1,10 @@
+form { 
+margin:0 auto;
+width:90%;
+	overflow: hidden;
+}
+
+
 #borderback{
 	background-image: url(border.png);
     width: 100%;
