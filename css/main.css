@@ -28,10 +28,11 @@
 }
 input, textarea {
 	padding: 10px;
-	border: 1px solid #E5E5E5;
+	border: 1px DASHED #efb575;
 	width: 200px;
-	color: #999999;
+	color: #efb575;
 	box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 8px;
+	font-family: 'Rokkitt',serif;
 
 }
 
@@ -46,21 +47,25 @@ input:hover, textarea:hover,
 input:focus, textarea:focus {
 	border-color: 1px solid #C9C9C9;
 	box-shadow: rgba(0, 0, 0, 0.2) 0px 0px 8px;
+	font-family: 'Rokkitt',serif;
 
 }
 
 .form label {
 	margin-left: 10px;
-	color: #999999;
+	color: #5e2921;
+	font-family: 'Rokkitt',serif;
 }
 
 
 .submit input {
 	width: 100px; 
 	height: 40px;
-	background-color: #474E69; 
-	color: #FFF;
+	background-color: #efb575; 
+	color: #5e2921;
+	font-family: 'Rokkitt',serif;
 	border-radius: 3px;
+	border: 1px DASHED #5e2921;
 
 }
 
